@@ -34,4 +34,7 @@ This module covers the core behaviors, constraints, and methods associated with 
 ---
 ## 👨‍💻 Author
 
-**MD Shahnawaz Noor** *Aspiring Data Scientist* GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
+**MD Shahnawaz Noor**               
+*Aspiring Data Scientist*           
+
+GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
