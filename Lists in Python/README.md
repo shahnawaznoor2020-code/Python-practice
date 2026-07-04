@@ -34,4 +34,7 @@ This module covers the complete lifecycle of Python lists. The scripts demonstra
 ---
 ## 👨‍💻 Author
 
-**MD Shahnawaz Noor** GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
+**MD Shahnawaz Noor**     
+*Aspiring Data Scientist* 
+   
+GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
