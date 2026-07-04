@@ -31,7 +31,4 @@ This module covers the implementation of conditional statements in Python. The s
 ---
 ## 👨‍💻 Author
 
-**MD Shahnawaz Noor**     
-*Aspiring Data Scientist* 
-   
-GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
+**MD Shahnawaz Noor** GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
