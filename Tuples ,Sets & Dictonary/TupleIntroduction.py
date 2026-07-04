@@ -18,7 +18,7 @@ print(type(l1))
 t2=tuple(l1)
 print(type(t2))
 
-#funtions are Same as list but tuple cannot be editted
+#funtions are Same as list but tuple cannot be edited
 
 #Memory location
 ppp=213
