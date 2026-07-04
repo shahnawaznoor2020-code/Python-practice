@@ -32,4 +32,7 @@ This module covers the core concepts of string operations in Python. The scripts
 ---
 ## 👨‍💻 Author
 
-**MD Shahnawaz Noor** *Aspiring Data Scientist* GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
+**MD Shahnawaz Noor**     
+*Aspiring Data Scientist* 
+   
+GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
