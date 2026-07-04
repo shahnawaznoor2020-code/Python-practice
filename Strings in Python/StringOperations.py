@@ -1,6 +1,6 @@
 from xml.sax.handler import version
 
-from p6 import language
+from fstringInPython import language
 
 s1="Python is fun"
 print(s1[0])
