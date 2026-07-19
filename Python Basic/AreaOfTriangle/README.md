@@ -42,14 +42,14 @@ The program is written in a **simple and readable format**.
 The program prints the calculated area and perimeter directly to the console after taking user input.  
 The complete console output for this practice question is shown below.
 
-![Console Output](Output_3.png)
+![Console Output](Output.png)
 
 ---
 
 ## 📂 File Information
 
 - `AreaOfTriangle.py` — Contains the practice question program  
-- `Output_3.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
