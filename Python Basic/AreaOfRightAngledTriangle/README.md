@@ -55,7 +55,7 @@ The complete console output for this practice question is shown below.
 **MD Shahnawaz Noor**     
 *Aspiring Data Scientist* 
    
-GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)             
+GitHub: [https://github.com/shahnawaznoor2020-code](https://github.com/shahnawaznoor2020-code)             
 Email: shahnawaznoor2020@gmaIl.com  
  
 ---
