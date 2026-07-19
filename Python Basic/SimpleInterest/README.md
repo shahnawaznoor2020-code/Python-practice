@@ -40,14 +40,14 @@ The program is written in a **simple and readable format**.
 The program prints the calculated simple interest and total amount directly to the console after taking user input.  
 The complete console output for this practice question is shown below.
 
-![Console Output](Output_4.png)
+![Console Output](Output.png)
 
 ---
 
 ## 📂 File Information
 
 - `SimpleInterest.py` — Contains the practice question program  
-- `Output_4.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
@@ -57,7 +57,7 @@ The complete console output for this practice question is shown below.
 *Aspiring Data Scientist* 
    
 GitHub: [https://github.com/shahnawaznoor2020-code](https://github.com/shahnawaznoor2020-code)             
-Email: shahnawaznoor2020@gmaIl.com  
+Email: shahnawaznoor2020@gmail.com  
  
 ---
 
