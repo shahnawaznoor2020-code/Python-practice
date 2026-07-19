@@ -46,7 +46,7 @@ The complete console output for this practice question is shown below.
 ## 📂 File Information
 
 - `AreaOfRightAngledTriangle.py` — Contains the practice question program  
-- `Output_2.png` — Screenshot of console output  
+- `Output.png` — Screenshot of console output  
 - `README.md` — Folder documentation  
 
 ---
