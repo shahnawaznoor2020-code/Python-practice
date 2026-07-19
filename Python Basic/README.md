@@ -31,4 +31,6 @@ This module covers basic sequential programming in Python. The scripts demonstra
 **MD Shahnawaz Noor**      
 *Aspiring Data Scientist* 
 
-GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
+GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)                
+Email: shahnawaznoor2020@gmail.com  
+
