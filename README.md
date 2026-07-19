@@ -23,12 +23,14 @@ As learning progresses, concepts are revisited and refined to strengthen underst
 This repository also serves as a **personal learning record**, showcasing consistency, commitment, and hands-on experience in Python programming. It is intended to support **academic coursework**, **technical interview preparation**, and the development of **strong foundational programming skills** required for advanced topics and real-world applications.
 
 ---
+## 👨‍💻 Author
 
-## Author
+**MD Shahnawaz Noor**      
+*Aspiring Data Scientist* 
 
-**Shahnawaz Noor**  
+GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)                
 Email: shahnawaznoor2020@gmail.com  
-GitHub: https://github.com/shahnawaznoor2020  
+
 
 ---
 
