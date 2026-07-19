@@ -56,7 +56,7 @@ The complete console output for this practice question is shown below.
 *Aspiring Data Scientist* 
    
 GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)             
-📧 Email: shahnawaznoor2020@gmaIl.com  
+Email: shahnawaznoor2020@gmaIl.com  
  
 ---
 
