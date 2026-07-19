@@ -50,13 +50,14 @@ The complete console output for this practice question is shown below.
 - `README.md` — Folder documentation  
 
 ---
-
 ## 👨‍💻 Author
 
-**Md Shahnawaz Noor**  
+**MD Shahnawaz Noor**     
+*Aspiring Data Scientist* 
+   
+GitHub: [https://github.com/shahnawaznoor2020](https://github.com/shahnawaznoor2020)
 📧 Email: shahnawaznoor2020@gmaIl.com  
-🌐 GitHub: https://github.com/shahnawaznoor2020-code  
-
+ 
 ---
 
 ## ⭐ Note
