@@ -1,5 +1,4 @@
 #reverse
-from fstringInPython import language
 
 days_of_week=['mon','tue','wed','thur','fri','sat','sun']
 print(days_of_week)
