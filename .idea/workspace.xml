@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated" />
+    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated">
+      <change beforePath="$PROJECT_DIR$/Module 6 - Loops/Number_Guessing_Problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 6 - Loops/Number Guessing Problem/Number_Guessing_Problem.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="110" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +30,10 @@
     &quot;accountId&quot;: &quot;80f49299-e635-4d76-949b-6db771039acc&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -38,40 +47,42 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Contiue&amp;break.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DictionaryIntroduction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EscapeSequences.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IfElseIfStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IfElseStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ListIntroduction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ListOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ListOperation2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ListOperation3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NestedIf.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NestedList.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NumericalOperationOfList.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SetsIntroduction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ShallowDeepCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SlicingInStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StringOperation2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StringOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TupleIntroduction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Walrus_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fstringInPython.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/win11/PycharmProjects/Python-practice/Module 3 - Lists in Python/List Introduction&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Contiue&break.executor": "Run",
+    "Python.DictionaryIntroduction.executor": "Run",
+    "Python.EscapeSequences.executor": "Run",
+    "Python.IfElseIfStatement.executor": "Run",
+    "Python.IfElseStatement.executor": "Run",
+    "Python.ListIntroduction.executor": "Run",
+    "Python.ListOperation.executor": "Run",
+    "Python.ListOperation2.executor": "Run",
+    "Python.ListOperation3.executor": "Run",
+    "Python.NestedIf.executor": "Run",
+    "Python.NestedList.executor": "Run",
+    "Python.Number_Guessing_Problem.executor": "Run",
+    "Python.NumericalOperationOfList.executor": "Run",
+    "Python.SetsIntroduction.executor": "Run",
+    "Python.ShallowDeepCopy.executor": "Run",
+    "Python.SlicingInStrings.executor": "Run",
+    "Python.StringOperation2.executor": "Run",
+    "Python.StringOperations.executor": "Run",
+    "Python.TernaryOperator.executor": "Run",
+    "Python.TupleIntroduction.executor": "Run",
+    "Python.Walrus_operator.executor": "Run",
+    "Python.fstringInPython.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/win11/PycharmProjects/Python-practice/Module 3 - Lists in Python/List Introduction",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 3 - Lists in Python\List Introduction" />
@@ -336,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794838614710</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794838846101</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1794838846101</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
