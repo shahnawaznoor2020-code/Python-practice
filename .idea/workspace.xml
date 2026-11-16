@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shahnawaznoor2020-code&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shahnawaznoor2020-code/Python-practice.git&quot;,
+    &quot;accountId&quot;: &quot;80f49299-e635-4d76-949b-6db771039acc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3M3bkxcpHe8ENsUTL6nh4ebHDKF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Contiue&amp;break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DictionaryIntroduction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EscapeSequences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IfElseIfStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IfElseStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListIntroduction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListOperation2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListOperation3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NestedIf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NestedList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NumericalOperationOfList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SetsIntroduction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ShallowDeepCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SlicingInStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringOperation2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TupleIntroduction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Walrus_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fstringInPython.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/win11/PycharmProjects/Python-practice/Module 3 - Lists in Python/List Introduction&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 3 - Lists in Python\List Introduction" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 2 - Strings in Python\fstring In Python" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 2 - Strings in Python\String Operations" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 2 - Strings in Python\String Operation 2" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Strings in Python\SlicingInStrings" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\Contiue &amp; break" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 5 - Control Statements\Walrus operator" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 5 - Control Statements\Ternary Operator" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 5 - Control Statements\Nested If" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 5 - Control Statements\If Else If Statement" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Contiue&amp;break" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python-practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 6 - Loops/Contiue &amp; break" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module 6 - Loops/Contiue &amp; break/Contiue&amp;break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="" />
+      <created>1794582344443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794582344443</updated>
+    </task>
+    <task id="LOCAL-00001" summary="File Directory updated">
+      <option name="closed" value="true" />
+      <created>1794722088238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794722088238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794722814433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794722814433</updated>
+    </task>
+    <task id="LOCAL-00003" summary="File Name updated">
+      <option name="closed" value="true" />
+      <created>1794722966004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794722966004</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794723390399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1794723390399</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794723760648</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1794723760648</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794724879169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1794724879169</updated>
+    </task>
+    <task id="LOCAL-00007" summary="File Name Updated">
+      <option name="closed" value="true" />
+      <created>1794724928136</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1794724928136</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794812621701</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1794812621701</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794813091264</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1794813091264</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794813255578</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1794813255578</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794813463744</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1794813463744</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794813629593</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1794813629593</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Folder Name Updated">
+      <option name="closed" value="true" />
+      <created>1794813718191</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1794813718191</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794814049929</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1794814049929</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794814498488</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1794814498488</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794815003374</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1794815003374</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794815195665</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1794815195665</updated>
+    </task>
+    <task id="LOCAL-00018" summary="File Name updated">
+      <option name="closed" value="true" />
+      <created>1794815260710</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1794815260710</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794815794154</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1794815794154</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794816140564</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1794816140564</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794816500125</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1794816500125</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794816749356</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1794816749356</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794817380551</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1794817380551</updated>
+    </task>
+    <task id="LOCAL-00024" summary="File Name Updated">
+      <option name="closed" value="true" />
+      <created>1794817428924</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1794817428924</updated>
+    </task>
+    <task id="LOCAL-00025" summary="File Name Updated">
+      <option name="closed" value="true" />
+      <created>1794838557132</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1794838557132</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794838614710</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1794838614710</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="File Directory updated" />
+    <MESSAGE value="Folder Name Updated" />
+    <MESSAGE value="File Name updated" />
+    <MESSAGE value="File Name Updated" />
+    <MESSAGE value="Code Explanation Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Explanation Updated" />
+  </component>
+</project>
