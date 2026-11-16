@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated" />
+    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated">
+      <change afterPath="$PROJECT_DIR$/Module 6 - Loops/Random module/Output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6 - Loops/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 6 - Loops/Random module/random_module.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +81,7 @@
     "Python.fstringInPython.executor": "Run",
     "Python.list&loops.executor": "Run",
     "Python.nested_loop.executor": "Run",
+    "Python.random_module.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -98,11 +103,11 @@
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Strings in Python\SlicingInStrings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\Random module" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\Nested loop" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\list &amp; loops" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\for loop" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\dictinaries &amp; loops" />
-      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\Star pattern" />
     </key>
   </component>
   <component name="RunManager">
@@ -409,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794840405522</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794840530780</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1794840530780</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
