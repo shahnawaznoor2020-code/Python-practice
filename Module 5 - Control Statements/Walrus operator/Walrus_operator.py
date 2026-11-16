@@ -22,11 +22,15 @@ for entry in d:
         print(name)
 
 foods = []
+print("Without Walrus operator:")
 while True:
-    f = input("What food do you like?: ")
+    f = input("What food do you like? (type 'quit' to stop): ")
     if f == "quit":
         break
     foods.append(f)
+print(foods)
 foods = []
+print("With Walrus operator:")
 while (f := input("What food do you like? (type 'quit' to stop): ")) != "quit":
     foods.append(f)
+print(foods)
