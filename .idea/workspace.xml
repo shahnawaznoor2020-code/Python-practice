@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated">
-      <change afterPath="$PROJECT_DIR$/Module 6 - Loops/Roll a dice/Output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 6 - Loops/Roll a dice/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6 - Loops/Roll a dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 6 - Loops/Roll a dice/Roll a dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 6 - Loops/dictinaries &amp; loops/Output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 6 - Loops/dictinaries &amp; loops/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6 - Loops/dictinaries&amp;loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 6 - Loops/dictinaries &amp; loops/dictinaries&amp;loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +70,13 @@
     "Python.SetsIntroduction.executor": "Run",
     "Python.ShallowDeepCopy.executor": "Run",
     "Python.SlicingInStrings.executor": "Run",
+    "Python.Star pattern.executor": "Run",
     "Python.StringOperation2.executor": "Run",
     "Python.StringOperations.executor": "Run",
     "Python.TernaryOperator.executor": "Run",
     "Python.TupleIntroduction.executor": "Run",
     "Python.Walrus_operator.executor": "Run",
+    "Python.dictinaries&loops.executor": "Run",
     "Python.fstringInPython.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -369,7 +370,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794839159214</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794839470287</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1794839470287</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794839614042</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1794839614042</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
