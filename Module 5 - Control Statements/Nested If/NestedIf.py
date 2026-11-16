@@ -1,4 +1,5 @@
 #Nested if
+marks=int(input("Enter yours Marks:"))
 if marks>=40:
     print("Congratulation! You passed the exam ")
     if 90 <= marks <= 100:
