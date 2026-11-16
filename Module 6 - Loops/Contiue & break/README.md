@@ -1,5 +1,5 @@
 ## Python Practice Question – Continue & Break Statements
-
+ 
 This folder contains a Python program that solves a **basic practice question** demonstrating the use of `continue` and `break` statements within loops.
 
 It is intended for beginners to strengthen their understanding of **core Python fundamentals** through simple problem-solving.
