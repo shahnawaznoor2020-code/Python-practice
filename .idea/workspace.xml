@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated">
-      <change afterPath="$PROJECT_DIR$/Module 6 - Loops/list &amp; loops/Output.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6 - Loops/list&amp;loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 6 - Loops/list &amp; loops/list&amp;loops.py" afterDir="false" />
-    </list>
+    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +76,7 @@
     "Python.for loop.executor": "Run",
     "Python.fstringInPython.executor": "Run",
     "Python.list&loops.executor": "Run",
+    "Python.nested_loop.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -403,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794840051451</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794840405522</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1794840405522</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
