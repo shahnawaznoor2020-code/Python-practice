@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated">
-      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Modules in Python/Output.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Modules in Python/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Modules_in_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Modules in Python/Modules_in_Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/User_defined_module/Arithemetic_for_user_defined_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/User_defined_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/User_defined_module/User_defined_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
     "Python.NestedList.executor": "Run",
     "Python.Number_Guessing_Problem.executor": "Run",
     "Python.NumericalOperationOfList.executor": "Run",
+    "Python.Recursive_function.executor": "Run",
     "Python.Roll a dice.executor": "Run",
     "Python.SetsIntroduction.executor": "Run",
     "Python.ShallowDeepCopy.executor": "Run",
@@ -82,6 +81,7 @@
     "Python.StringOperations.executor": "Run",
     "Python.TernaryOperator.executor": "Run",
     "Python.TupleIntroduction.executor": "Run",
+    "Python.User_defined_module.executor": "Run",
     "Python.Walrus_operator.executor": "Run",
     "Python.dictinaries&loops.executor": "Run",
     "Python.for loop.executor": "Run",
@@ -98,24 +98,24 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/win11/PycharmProjects/Python-practice/Module 7 - Functions & Modules/Doc String",
+    "last_opened_file_path": "C:/Users/win11/PycharmProjects/Python-practice/Module 7 - Functions & Modules/User_defined_module",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\User_defined_module" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Doc String" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Arithemetic for user defined Module" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 3 - Lists in Python\List Introduction" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 2 - Strings in Python\fstring In Python" />
-      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 2 - Strings in Python\String Operations" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\User_defined_module" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Recursive Function" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Modules in Python" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Lambda Function" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Functions in Python" />
-      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Doc String" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -453,7 +453,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794898434757</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794898621703</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1794898621703</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794898895858</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1794898895858</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
