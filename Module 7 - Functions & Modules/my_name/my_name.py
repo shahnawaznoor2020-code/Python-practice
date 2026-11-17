@@ -6,4 +6,4 @@ print(f"The result is {out}")
 
 
 # for my_name.py => __name__ => "__main__"
-# for arthematic.py => __name__ => "arithematic"
+# for arthematic.py => __name__ => "arithmetic"
