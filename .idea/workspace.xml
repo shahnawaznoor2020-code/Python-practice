@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated">
-      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/my_name/Arithemetic_for_user_defined_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/my_name/my_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Random Module/Output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Random Module/random_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,11 +112,11 @@
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 3 - Lists in Python\List Introduction" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Random Module" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\my_name" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\User_defined_module" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Recursive Function" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Modules in Python" />
-      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Lambda Function" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -478,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794899626839</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794899892116</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1794899892116</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
