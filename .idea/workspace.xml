@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated">
-      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Random Module/Output.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Random Module/random_module.py" afterDir="false" />
-    </list>
+    <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -486,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794899892116</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794900056038</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1794900056038</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
