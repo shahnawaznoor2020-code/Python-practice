@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f2a9260-ae43-4bee-97c4-2165eb912756" name="Changes" comment="Code Explanation Updated">
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/A_simple_banking_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/A Simple Banking Application/A_simple_banking_application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/Arithemetic_for_user_defined_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Arithemetic_for_user_defined_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/Doc_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Doc_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/Functions_in_p.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Functions_in_p.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/Lambda_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Lambda_Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/Modules_in_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Modules_in_Python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/Recrsive_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Recrsive_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/Recusive_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Recusive_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/User_defined_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/User_defined_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/my_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions &amp; Modules/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/random_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Arithemetic for user defined Module/Output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Arithemetic for user defined Module/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Doc String/Output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Arithemetic_for_user_defined_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Arithemetic for user defined Module/Arithemetic_for_user_defined_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Doc_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 7 - Functions &amp; Modules/Doc String/Doc_string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="110" />
+    <option name="cachedIndexableFilesCount" value="137" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,8 +57,10 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.A_simple_banking_application.executor": "Run",
+    "Python.Arithemetic_for_user_defined_module.executor": "Run",
     "Python.Contiue&break.executor": "Run",
     "Python.DictionaryIntroduction.executor": "Run",
+    "Python.Doc_string.executor": "Run",
     "Python.EscapeSequences.executor": "Run",
     "Python.IfElseIfStatement.executor": "Run",
     "Python.IfElseStatement.executor": "Run",
@@ -101,55 +97,30 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/win11/PycharmProjects/Python-practice/Module 3 - Lists in Python/List Introduction",
+    "last_opened_file_path": "C:/Users/win11/PycharmProjects/Python-practice/Module 7 - Functions & Modules/Arithemetic for user defined Module",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Arithemetic for user defined Module" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 3 - Lists in Python\List Introduction" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 2 - Strings in Python\fstring In Python" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 2 - Strings in Python\String Operations" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 2 - Strings in Python\String Operation 2" />
-      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Strings in Python\SlicingInStrings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Doc String" />
+      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\Arithemetic for user defined Module" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 7 - Functions &amp; Modules\A Simple Banking Application" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\While loop" />
       <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\Random module" />
-      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\Nested loop" />
-      <recent name="C:\Users\win11\PycharmProjects\Python-practice\Module 6 - Loops\list &amp; loops" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Contiue&amp;break" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Python-practice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 6 - Loops/Contiue &amp; break" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module 6 - Loops/Contiue &amp; break/Contiue&amp;break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4952227d2795-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.33813.104" />
       </set>
     </attachedChunks>
   </component>
@@ -449,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794841013675</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Code Explanation Updated">
+      <option name="closed" value="true" />
+      <created>1794841367975</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1794841367975</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

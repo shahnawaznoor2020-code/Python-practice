@@ -6,7 +6,7 @@ def add(a,b):
 def squre_root(a):
     return a**(0.5)
 
-print(f"for arithematic.py __name__ is {__name__}")
+print(f"for arithmetic.py __name__ is {__name__}")
 if __name__=="__main__":
     a = 10
     b = 20
